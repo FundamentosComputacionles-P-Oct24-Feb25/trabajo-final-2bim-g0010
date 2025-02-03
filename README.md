@@ -1,6 +1,6 @@
 # Trabajo Final
 ## Segundo Bimestre
-
+### Integrantes: Luis Armijos Sánchez - Joel Domínguez Ochoa
 ***
 
 ### Problemática a resolver
